@@ -107,6 +107,7 @@ The project uses a layered workflow:
 - `docs/` — Supporting data sources and documentation
 - `requirements.txt` — Python package requirements for optional QA or workflow scripts
 
+
 ## Important Note
 
 This project uses simulated and screening-level portfolio data for demonstration purposes. It is not an official GRESB submission, investment-grade audit, engineering assessment, or financial recommendation.
@@ -118,3 +119,9 @@ The purpose is to demonstrate how property-performance, utility, emissions, and 
 This project reframes sustainability data as property-performance intelligence. The value is not only in tracking ESG metrics, but in identifying where utility costs, operational inefficiencies, risk exposure, and retrofit economics intersect.
 
 For property managers, the dashboard supports practical decisions around operating cost, asset prioritization, and capital planning. For sustainability teams, it provides a bridge between reporting metrics and business decisions. For asset owners, it shows how performance improvements can be connected to annual savings and estimated value impact.
+
+## Example Insights
+
+- Two properties were identified as the highest operational priorities because they combined above-benchmark energy use, high carbon intensity, high waste generation, and weak diversion performance.
+- Electricity-efficiency upgrades produced the strongest near-term financial case based on annual savings, payback, and estimated value impact.
+- Waste-diversion improvements had lower direct carbon impact but remained important because weak diversion was a portfolio-wide operational issue.
