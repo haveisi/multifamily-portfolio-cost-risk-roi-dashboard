@@ -1,6 +1,6 @@
 \# Multifamily Portfolio Cost, Risk \& Retrofit ROI Dashboard
 
-
+A property-management dashboard that connects utility performance, operating-cost risk, and retrofit ROI to support capital-planning decisions.
 
 This project is a property-management and asset-planning dashboard for a simulated multifamily real estate portfolio. It connects building performance, utility cost, emissions exposure, waste efficiency, and retrofit financial analysis into one decision-support workflow.
 
@@ -100,7 +100,13 @@ The goal is to help property managers, asset owners, and sustainability teams id
 
 !\[Capital Planning](images/page3\_capital\_planning\_roi.png)
 
+## Project Files
 
+- `data/` — Excel workbook with portfolio model, calculation tables, and assumptions
+- `powerbi/` — Power BI dashboard file
+- `images/` — Dashboard screenshots for quick preview
+- `docs/` — Supporting data sources and documentation
+- `requirements.txt` — Python package requirements for optional QA or workflow scripts
 
 \## Important Note
 
